@@ -2,16 +2,13 @@
 크림 클론 공개 저장소
 2025.01.09 [KREAM CLONE 프로젝트 1차 START]
 
-* [파트별 역할]<BR/> 
-퍼블 : 민경, 유진
-
-프론트 : REACT.JS > 민경, 유진, 수용
-
-백엔드 : SPRING BOOT >, 유진, 수용
-
-DB : MYSQL > 유진, 수용
-
-AWS(RDS, EC2) > 유진, 수용
+* [파트별 역할]
+  
+퍼블 : 민경, 유진<BR/> 
+프론트 : REACT.JS > 민경, 유진, 수용<BR/> 
+백엔드 : SPRING BOOT >, 유진, 수용<BR/> 
+DB : MYSQL > 유진, 수용<BR/> 
+AWS(RDS, EC2) > 유진, 수용<BR/> 
 
 
 * [퍼블]
